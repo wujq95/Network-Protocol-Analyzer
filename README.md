@@ -4,11 +4,9 @@
 This is a network protocol analyzer based on WinpCap and JPcap. A	 network protocol analyzer is an important tool for maintaining network security. It can capture the data packets in the network and decode the data packets according to the encapsulation rules of the data packets to obtain the information carried by the data packets. Network administrators can use network protocol analyzers to find and repair network problems, monitor traffic conditions, and maintain network security. 
 
 ## Configuration
-Programming Language：Java
-
-Operating System：Windows
-
-Tools：WinPcap、JPcap
+1. Programming Language：Java
+2. Operating System：Windows
+3. Tools：WinPcap、JPcap
 
 ## WinPcap
 WinPcap is a function library for the Windows system. It helps users access the underlying network layers. WinPcap is a free industry-standard tool. It allows applications to directly capture and transmit data packets in the network. Many network applications are developed based on WinPcap.
