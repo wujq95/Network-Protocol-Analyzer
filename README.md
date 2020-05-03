@@ -31,7 +31,7 @@ The software can save the captured data packages locally and open locally saved 
 The software provides the bar chart, the pie chart, and the table to help users perform statistical analysis on types, numbers, and proportions of all data packets.
 
 #### Auxiliary information provision
-The software can also provide users with host information and network card information. Users can obtain the host name, IP address, and MAC address and other important information.
+The software can also provide users with host information and network card information. Users can obtain the Hostname, IP address, and MAC address and other important information.
 
 ## Reference
 [JPcap](http://jpcap.sourceforge.net/javadoc/index.html)
