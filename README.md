@@ -6,7 +6,7 @@ This is a network protocol analyzer based on WinpCap and JPcap. A network protoc
 ## Configuration
 1. Programming Language：Java
 2. Operating System：Windows
-3. Tools：WinPcap、JPcap
+3. Tools：WinPcap, JPcap
 
 ## WinPcap
 WinPcap is a function library for the Windows system. It helps users access the underlying network layers. WinPcap is a free industry-standard tool. It allows applications to directly capture and transmit data packets in the network. Many network applications are developed based on WinPcap.
@@ -22,7 +22,7 @@ The software can set the capture conditions before the start of packets capture,
 The software can manually start and stop the data packet capture. During the capture process, the main information of the data packets can be displayed on the interface.
 
 #### Data packets analysis
-he software can display data packets from the data link layer to the application layer, and show the information carried by protocols of different layers on the interface. The protocols that can be analyzed currently include Ethernet、IP、 ARP、 ICMP、 TCP、 UDP、DNS、 HTTP、 HTTPS、 FTP、 Telnet、 POP、 SMTP.
+The software can display data packets from the data link layer to the application layer, and show the information carried by protocols of different layers on the interface. The protocols that can be analyzed currently include Ethernet, IP, ARP, ICMP, TCP, UDP, DNS, HTTP, HTTPS, FTP, Telnet, POP, SMTP.
 
 #### Data packets save and open
 The software can save the captured data packages locally and open locally saved data packets. After opening the locally saved data packets, the analysis and statistics of the data packets can still be performed.
@@ -31,7 +31,7 @@ The software can save the captured data packages locally and open locally saved 
 The software provides the bar chart, the pie chart, and the table to help users perform statistical analysis on types, numbers, and proportions of all data packets.
 
 #### Auxiliary information provision
-The software can also provide users with host information and network card information. Users can obtain  the host name, IP address, and MAC address and other important information.
+The software can also provide users with host information and network card information. Users can obtain the host name, IP address, and MAC address and other important information.
 
 ## Reference
 [JPcap](http://jpcap.sourceforge.net/javadoc/index.html)
